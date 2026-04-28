@@ -15,7 +15,7 @@ A modern, responsive landing page for **Attendify AI**, an AI-powered attendance
 This repository contains the **landing page frontend + Flask integration layer** for Attendify AI.
 
 > ⚠️ This is NOT the core AI system
-> 👉 Full project repo: *(add your main repo link here)*
+> 👉 Full project repo: *(https://github.com/Maulikkkk/Attendify-AI)*
 
 ---
 
